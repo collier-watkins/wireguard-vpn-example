@@ -7,7 +7,7 @@ Things you'll need:
    _If you need help with that, ask. Instructions specific to your router._
 
 ## Server
-1. Install wireguard on whatever device your server will be on. For Debian/Ubuntu/Mint:
+1. Install wireguard server on whatever device your server will be on. For Debian/Ubuntu/Mint:
 
 `sudo apt install wireguard`
 
