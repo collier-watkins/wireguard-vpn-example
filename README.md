@@ -4,6 +4,7 @@ Things you'll need:
 1. Your network's public IP address
 2. Your server device's local IP address.
 3. Port forward your firewall's port 51820 to the server device's same port.
+   _If you need help with that, ask. Instructions specific to your router._
 
 ## Server
 1. Install wireguard on whatever device your server will be on. For Debian/Ubuntu/Mint:
