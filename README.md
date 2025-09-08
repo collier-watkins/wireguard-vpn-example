@@ -57,3 +57,8 @@ If your client device does not have a camera, you'll need to somehow copy that c
 
 3. From a different network (phone service, someone else's wifi, etc..) try to use the wireguard app to connect to the server.
 
+### Notes
+
+I thiiiink each client should be able to ping each other client. That's how it works for me.
+
+To check status of the server and all the clients, run `sudo wg show`
